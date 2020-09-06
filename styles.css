@@ -1,0 +1,66 @@
+body {
+background-color: #d2e603;
+}
+
+.main-div {
+  text-align: center;
+  font-size: 175%;
+}
+.test {
+  color: #00bcd4;
+}
+.ok {
+  color: #ff4301;
+}
+.guss{
+color: #c70039;
+font-size: 130%;
+}
+
+.bottom-div {
+  margin-top: 3%;
+  width: 30%;
+  padding: 1%;
+  position: absolute;
+  text-align: center;
+  font-size: 175%;
+  font-weight: bold;
+  background-color: rgb(212, 177, 39);
+  border-radius: 15%;
+}
+
+/*      -----= Where You should Change The color =------      */
+.left-bottom {
+  left: 10%;
+  background-color: ;
+}
+
+.right-bottom {
+  right: 10%;
+  background-color: ;
+}
+
+.blue {
+  border-radius: 45%;
+  padding: 3%;
+  color: white;
+  background-color: rgb(0, 0, 255);
+}
+.red {
+  border-radius: 45%;
+  padding: 3%;
+  color: yellow;
+  background-color: rgb(255, 0, 0);
+}
+.green {
+  border-radius: 45%;
+  padding: 3%;
+  color: red;
+  background-color: rgb(0, 255, 0);
+}
+.yellow {
+  border-radius: 45%;
+  padding: 3%;
+  color: blue;
+  background-color: rgb(255, 255, 0);
+}
