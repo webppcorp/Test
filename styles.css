@@ -32,12 +32,12 @@ font-size: 130%;
 /*      -----= Where You should Change The color =------      */
 .left-bottom {
   left: 10%;
-  background-color: ;
+  background-color: blue;
 }
 
 .right-bottom {
   right: 10%;
-  background-color: ;
+  background-color: green;
 }
 
 .blue {
