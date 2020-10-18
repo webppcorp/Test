@@ -1,0 +1,6 @@
+
+
+		**************** What is pull Request ?? ************************
+
+		 Pull request is a request sent for the owner of repo to review your branch. They can review and comment your code and ask for corrections.
+		 If the owner finds that your branch is okay they can then merge that branch with master.
